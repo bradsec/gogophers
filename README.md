@@ -12,7 +12,7 @@ Go gopher images generated with Go. Based on images found at: https://go.dev/blo
 ![original/light/64/gopher_ani.gif](yellow/light/64/gopher_ani.gif)
   
 ***Non-animated images are .png format.***
-### Light original 64x64  
+### Light complexion original body 64x64  
 ![original/light/64/gopher_64x64_01_look_straight.png](original/light/64/gopher_64x64_01_look_straight.png)
 ![original/light/64/gopher_64x64_02_look_left.png](original/light/64/gopher_64x64_02_look_left.png)
 ![original/light/64/gopher_64x64_03_look_left_up.png](original/light/64/gopher_64x64_03_look_left_up.png)
@@ -33,7 +33,7 @@ Go gopher images generated with Go. Based on images found at: https://go.dev/blo
 ![original/light/64/gopher_64x64_18_look_squint_straight_red.png](original/light/64/gopher_64x64_18_look_squint_straight_red.png)
 ![original/light/64/gopher_64x64_19_look_blink_left.png](original/light/64/gopher_64x64_19_look_blink_left.png)
 ![original/light/64/gopher_64x64_20_look_blink_right.png](original/light/64/gopher_64x64_20_look_blink_right.png)
-### Light dblue 64x64  
+### Light complexion dblue body 64x64  
 ![dblue/light/64/gopher_64x64_01_look_straight.png](dblue/light/64/gopher_64x64_01_look_straight.png)
 ![dblue/light/64/gopher_64x64_02_look_left.png](dblue/light/64/gopher_64x64_02_look_left.png)
 ![dblue/light/64/gopher_64x64_03_look_left_up.png](dblue/light/64/gopher_64x64_03_look_left_up.png)
@@ -54,7 +54,7 @@ Go gopher images generated with Go. Based on images found at: https://go.dev/blo
 ![dblue/light/64/gopher_64x64_18_look_squint_straight_red.png](dblue/light/64/gopher_64x64_18_look_squint_straight_red.png)
 ![dblue/light/64/gopher_64x64_19_look_blink_left.png](dblue/light/64/gopher_64x64_19_look_blink_left.png)
 ![dblue/light/64/gopher_64x64_20_look_blink_right.png](dblue/light/64/gopher_64x64_20_look_blink_right.png)
-### Light green 64x64  
+### Light complexion green body 64x64  
 ![green/light/64/gopher_64x64_01_look_straight.png](green/light/64/gopher_64x64_01_look_straight.png)
 ![green/light/64/gopher_64x64_02_look_left.png](green/light/64/gopher_64x64_02_look_left.png)
 ![green/light/64/gopher_64x64_03_look_left_up.png](green/light/64/gopher_64x64_03_look_left_up.png)
@@ -75,7 +75,7 @@ Go gopher images generated with Go. Based on images found at: https://go.dev/blo
 ![green/light/64/gopher_64x64_18_look_squint_straight_red.png](green/light/64/gopher_64x64_18_look_squint_straight_red.png)
 ![green/light/64/gopher_64x64_19_look_blink_left.png](green/light/64/gopher_64x64_19_look_blink_left.png)
 ![green/light/64/gopher_64x64_20_look_blink_right.png](green/light/64/gopher_64x64_20_look_blink_right.png)
-### Light mblue 64x64  
+### Light complexion mblue body 64x64  
 ![mblue/light/64/gopher_64x64_01_look_straight.png](mblue/light/64/gopher_64x64_01_look_straight.png)
 ![mblue/light/64/gopher_64x64_02_look_left.png](mblue/light/64/gopher_64x64_02_look_left.png)
 ![mblue/light/64/gopher_64x64_03_look_left_up.png](mblue/light/64/gopher_64x64_03_look_left_up.png)
@@ -96,7 +96,7 @@ Go gopher images generated with Go. Based on images found at: https://go.dev/blo
 ![mblue/light/64/gopher_64x64_18_look_squint_straight_red.png](mblue/light/64/gopher_64x64_18_look_squint_straight_red.png)
 ![mblue/light/64/gopher_64x64_19_look_blink_left.png](mblue/light/64/gopher_64x64_19_look_blink_left.png)
 ![mblue/light/64/gopher_64x64_20_look_blink_right.png](mblue/light/64/gopher_64x64_20_look_blink_right.png)
-### Light orange 64x64  
+### Light complexion orange body 64x64  
 ![orange/light/64/gopher_64x64_01_look_straight.png](orange/light/64/gopher_64x64_01_look_straight.png)
 ![orange/light/64/gopher_64x64_02_look_left.png](orange/light/64/gopher_64x64_02_look_left.png)
 ![orange/light/64/gopher_64x64_03_look_left_up.png](orange/light/64/gopher_64x64_03_look_left_up.png)
@@ -117,7 +117,7 @@ Go gopher images generated with Go. Based on images found at: https://go.dev/blo
 ![orange/light/64/gopher_64x64_18_look_squint_straight_red.png](orange/light/64/gopher_64x64_18_look_squint_straight_red.png)
 ![orange/light/64/gopher_64x64_19_look_blink_left.png](orange/light/64/gopher_64x64_19_look_blink_left.png)
 ![orange/light/64/gopher_64x64_20_look_blink_right.png](orange/light/64/gopher_64x64_20_look_blink_right.png)
-### Light pink 64x64  
+### Light complexion pink body 64x64  
 ![pink/light/64/gopher_64x64_01_look_straight.png](pink/light/64/gopher_64x64_01_look_straight.png)
 ![pink/light/64/gopher_64x64_02_look_left.png](pink/light/64/gopher_64x64_02_look_left.png)
 ![pink/light/64/gopher_64x64_03_look_left_up.png](pink/light/64/gopher_64x64_03_look_left_up.png)
@@ -138,7 +138,7 @@ Go gopher images generated with Go. Based on images found at: https://go.dev/blo
 ![pink/light/64/gopher_64x64_18_look_squint_straight_red.png](pink/light/64/gopher_64x64_18_look_squint_straight_red.png)
 ![pink/light/64/gopher_64x64_19_look_blink_left.png](pink/light/64/gopher_64x64_19_look_blink_left.png)
 ![pink/light/64/gopher_64x64_20_look_blink_right.png](pink/light/64/gopher_64x64_20_look_blink_right.png)
-### Light purple 64x64  
+### Light complexion purple body 64x64  
 ![purple/light/64/gopher_64x64_01_look_straight.png](purple/light/64/gopher_64x64_01_look_straight.png)
 ![purple/light/64/gopher_64x64_02_look_left.png](purple/light/64/gopher_64x64_02_look_left.png)
 ![purple/light/64/gopher_64x64_03_look_left_up.png](purple/light/64/gopher_64x64_03_look_left_up.png)
@@ -159,7 +159,7 @@ Go gopher images generated with Go. Based on images found at: https://go.dev/blo
 ![purple/light/64/gopher_64x64_18_look_squint_straight_red.png](purple/light/64/gopher_64x64_18_look_squint_straight_red.png)
 ![purple/light/64/gopher_64x64_19_look_blink_left.png](purple/light/64/gopher_64x64_19_look_blink_left.png)
 ![purple/light/64/gopher_64x64_20_look_blink_right.png](purple/light/64/gopher_64x64_20_look_blink_right.png)
-### Light red 64x64  
+### Light complexion red body 64x64  
 ![red/light/64/gopher_64x64_01_look_straight.png](red/light/64/gopher_64x64_01_look_straight.png)
 ![red/light/64/gopher_64x64_02_look_left.png](red/light/64/gopher_64x64_02_look_left.png)
 ![red/light/64/gopher_64x64_03_look_left_up.png](red/light/64/gopher_64x64_03_look_left_up.png)
@@ -180,7 +180,7 @@ Go gopher images generated with Go. Based on images found at: https://go.dev/blo
 ![red/light/64/gopher_64x64_18_look_squint_straight_red.png](red/light/64/gopher_64x64_18_look_squint_straight_red.png)
 ![red/light/64/gopher_64x64_19_look_blink_left.png](red/light/64/gopher_64x64_19_look_blink_left.png)
 ![red/light/64/gopher_64x64_20_look_blink_right.png](red/light/64/gopher_64x64_20_look_blink_right.png)
-### Light yellow 64x64  
+### Light complexion yellow body 64x64  
 ![yellow/light/64/gopher_64x64_01_look_straight.png](yellow/light/64/gopher_64x64_01_look_straight.png)
 ![yellow/light/64/gopher_64x64_02_look_left.png](yellow/light/64/gopher_64x64_02_look_left.png)
 ![yellow/light/64/gopher_64x64_03_look_left_up.png](yellow/light/64/gopher_64x64_03_look_left_up.png)
@@ -201,7 +201,7 @@ Go gopher images generated with Go. Based on images found at: https://go.dev/blo
 ![yellow/light/64/gopher_64x64_18_look_squint_straight_red.png](yellow/light/64/gopher_64x64_18_look_squint_straight_red.png)
 ![yellow/light/64/gopher_64x64_19_look_blink_left.png](yellow/light/64/gopher_64x64_19_look_blink_left.png)
 ![yellow/light/64/gopher_64x64_20_look_blink_right.png](yellow/light/64/gopher_64x64_20_look_blink_right.png)
-### Medium original 64x64  
+### Medium complexion original body 64x64  
 ![original/medium/64/gopher_64x64_01_look_straight.png](original/medium/64/gopher_64x64_01_look_straight.png)
 ![original/medium/64/gopher_64x64_02_look_left.png](original/medium/64/gopher_64x64_02_look_left.png)
 ![original/medium/64/gopher_64x64_03_look_left_up.png](original/medium/64/gopher_64x64_03_look_left_up.png)
@@ -222,7 +222,7 @@ Go gopher images generated with Go. Based on images found at: https://go.dev/blo
 ![original/medium/64/gopher_64x64_18_look_squint_straight_red.png](original/medium/64/gopher_64x64_18_look_squint_straight_red.png)
 ![original/medium/64/gopher_64x64_19_look_blink_left.png](original/medium/64/gopher_64x64_19_look_blink_left.png)
 ![original/medium/64/gopher_64x64_20_look_blink_right.png](original/medium/64/gopher_64x64_20_look_blink_right.png)
-### Medium dblue 64x64  
+### Medium complexion dblue body 64x64  
 ![dblue/medium/64/gopher_64x64_01_look_straight.png](dblue/medium/64/gopher_64x64_01_look_straight.png)
 ![dblue/medium/64/gopher_64x64_02_look_left.png](dblue/medium/64/gopher_64x64_02_look_left.png)
 ![dblue/medium/64/gopher_64x64_03_look_left_up.png](dblue/medium/64/gopher_64x64_03_look_left_up.png)
@@ -243,7 +243,7 @@ Go gopher images generated with Go. Based on images found at: https://go.dev/blo
 ![dblue/medium/64/gopher_64x64_18_look_squint_straight_red.png](dblue/medium/64/gopher_64x64_18_look_squint_straight_red.png)
 ![dblue/medium/64/gopher_64x64_19_look_blink_left.png](dblue/medium/64/gopher_64x64_19_look_blink_left.png)
 ![dblue/medium/64/gopher_64x64_20_look_blink_right.png](dblue/medium/64/gopher_64x64_20_look_blink_right.png)
-### Medium green 64x64  
+### Medium complexion green body 64x64  
 ![green/medium/64/gopher_64x64_01_look_straight.png](green/medium/64/gopher_64x64_01_look_straight.png)
 ![green/medium/64/gopher_64x64_02_look_left.png](green/medium/64/gopher_64x64_02_look_left.png)
 ![green/medium/64/gopher_64x64_03_look_left_up.png](green/medium/64/gopher_64x64_03_look_left_up.png)
@@ -264,7 +264,7 @@ Go gopher images generated with Go. Based on images found at: https://go.dev/blo
 ![green/medium/64/gopher_64x64_18_look_squint_straight_red.png](green/medium/64/gopher_64x64_18_look_squint_straight_red.png)
 ![green/medium/64/gopher_64x64_19_look_blink_left.png](green/medium/64/gopher_64x64_19_look_blink_left.png)
 ![green/medium/64/gopher_64x64_20_look_blink_right.png](green/medium/64/gopher_64x64_20_look_blink_right.png)
-### Medium mblue 64x64  
+### Medium complexion mblue body 64x64  
 ![mblue/medium/64/gopher_64x64_01_look_straight.png](mblue/medium/64/gopher_64x64_01_look_straight.png)
 ![mblue/medium/64/gopher_64x64_02_look_left.png](mblue/medium/64/gopher_64x64_02_look_left.png)
 ![mblue/medium/64/gopher_64x64_03_look_left_up.png](mblue/medium/64/gopher_64x64_03_look_left_up.png)
@@ -285,7 +285,7 @@ Go gopher images generated with Go. Based on images found at: https://go.dev/blo
 ![mblue/medium/64/gopher_64x64_18_look_squint_straight_red.png](mblue/medium/64/gopher_64x64_18_look_squint_straight_red.png)
 ![mblue/medium/64/gopher_64x64_19_look_blink_left.png](mblue/medium/64/gopher_64x64_19_look_blink_left.png)
 ![mblue/medium/64/gopher_64x64_20_look_blink_right.png](mblue/medium/64/gopher_64x64_20_look_blink_right.png)
-### Medium orange 64x64  
+### Medium complexion orange body 64x64  
 ![orange/medium/64/gopher_64x64_01_look_straight.png](orange/medium/64/gopher_64x64_01_look_straight.png)
 ![orange/medium/64/gopher_64x64_02_look_left.png](orange/medium/64/gopher_64x64_02_look_left.png)
 ![orange/medium/64/gopher_64x64_03_look_left_up.png](orange/medium/64/gopher_64x64_03_look_left_up.png)
@@ -306,7 +306,7 @@ Go gopher images generated with Go. Based on images found at: https://go.dev/blo
 ![orange/medium/64/gopher_64x64_18_look_squint_straight_red.png](orange/medium/64/gopher_64x64_18_look_squint_straight_red.png)
 ![orange/medium/64/gopher_64x64_19_look_blink_left.png](orange/medium/64/gopher_64x64_19_look_blink_left.png)
 ![orange/medium/64/gopher_64x64_20_look_blink_right.png](orange/medium/64/gopher_64x64_20_look_blink_right.png)
-### Medium pink 64x64  
+### Medium complexion pink body 64x64  
 ![pink/medium/64/gopher_64x64_01_look_straight.png](pink/medium/64/gopher_64x64_01_look_straight.png)
 ![pink/medium/64/gopher_64x64_02_look_left.png](pink/medium/64/gopher_64x64_02_look_left.png)
 ![pink/medium/64/gopher_64x64_03_look_left_up.png](pink/medium/64/gopher_64x64_03_look_left_up.png)
@@ -327,7 +327,7 @@ Go gopher images generated with Go. Based on images found at: https://go.dev/blo
 ![pink/medium/64/gopher_64x64_18_look_squint_straight_red.png](pink/medium/64/gopher_64x64_18_look_squint_straight_red.png)
 ![pink/medium/64/gopher_64x64_19_look_blink_left.png](pink/medium/64/gopher_64x64_19_look_blink_left.png)
 ![pink/medium/64/gopher_64x64_20_look_blink_right.png](pink/medium/64/gopher_64x64_20_look_blink_right.png)
-### Medium purple 64x64  
+### Medium complexion purple body 64x64  
 ![purple/medium/64/gopher_64x64_01_look_straight.png](purple/medium/64/gopher_64x64_01_look_straight.png)
 ![purple/medium/64/gopher_64x64_02_look_left.png](purple/medium/64/gopher_64x64_02_look_left.png)
 ![purple/medium/64/gopher_64x64_03_look_left_up.png](purple/medium/64/gopher_64x64_03_look_left_up.png)
@@ -348,7 +348,7 @@ Go gopher images generated with Go. Based on images found at: https://go.dev/blo
 ![purple/medium/64/gopher_64x64_18_look_squint_straight_red.png](purple/medium/64/gopher_64x64_18_look_squint_straight_red.png)
 ![purple/medium/64/gopher_64x64_19_look_blink_left.png](purple/medium/64/gopher_64x64_19_look_blink_left.png)
 ![purple/medium/64/gopher_64x64_20_look_blink_right.png](purple/medium/64/gopher_64x64_20_look_blink_right.png)
-### Medium red 64x64  
+### Medium complexion red body 64x64  
 ![red/medium/64/gopher_64x64_01_look_straight.png](red/medium/64/gopher_64x64_01_look_straight.png)
 ![red/medium/64/gopher_64x64_02_look_left.png](red/medium/64/gopher_64x64_02_look_left.png)
 ![red/medium/64/gopher_64x64_03_look_left_up.png](red/medium/64/gopher_64x64_03_look_left_up.png)
@@ -369,7 +369,7 @@ Go gopher images generated with Go. Based on images found at: https://go.dev/blo
 ![red/medium/64/gopher_64x64_18_look_squint_straight_red.png](red/medium/64/gopher_64x64_18_look_squint_straight_red.png)
 ![red/medium/64/gopher_64x64_19_look_blink_left.png](red/medium/64/gopher_64x64_19_look_blink_left.png)
 ![red/medium/64/gopher_64x64_20_look_blink_right.png](red/medium/64/gopher_64x64_20_look_blink_right.png)
-### Medium yellow 64x64  
+### Medium complexion yellow body 64x64  
 ![yellow/medium/64/gopher_64x64_01_look_straight.png](yellow/medium/64/gopher_64x64_01_look_straight.png)
 ![yellow/medium/64/gopher_64x64_02_look_left.png](yellow/medium/64/gopher_64x64_02_look_left.png)
 ![yellow/medium/64/gopher_64x64_03_look_left_up.png](yellow/medium/64/gopher_64x64_03_look_left_up.png)
@@ -390,7 +390,7 @@ Go gopher images generated with Go. Based on images found at: https://go.dev/blo
 ![yellow/medium/64/gopher_64x64_18_look_squint_straight_red.png](yellow/medium/64/gopher_64x64_18_look_squint_straight_red.png)
 ![yellow/medium/64/gopher_64x64_19_look_blink_left.png](yellow/medium/64/gopher_64x64_19_look_blink_left.png)
 ![yellow/medium/64/gopher_64x64_20_look_blink_right.png](yellow/medium/64/gopher_64x64_20_look_blink_right.png)
-### Dark original 64x64  
+### Dark complexion original body 64x64  
 ![original/dark/64/gopher_64x64_01_look_straight.png](original/dark/64/gopher_64x64_01_look_straight.png)
 ![original/dark/64/gopher_64x64_02_look_left.png](original/dark/64/gopher_64x64_02_look_left.png)
 ![original/dark/64/gopher_64x64_03_look_left_up.png](original/dark/64/gopher_64x64_03_look_left_up.png)
@@ -411,7 +411,7 @@ Go gopher images generated with Go. Based on images found at: https://go.dev/blo
 ![original/dark/64/gopher_64x64_18_look_squint_straight_red.png](original/dark/64/gopher_64x64_18_look_squint_straight_red.png)
 ![original/dark/64/gopher_64x64_19_look_blink_left.png](original/dark/64/gopher_64x64_19_look_blink_left.png)
 ![original/dark/64/gopher_64x64_20_look_blink_right.png](original/dark/64/gopher_64x64_20_look_blink_right.png)
-### Dark dblue 64x64  
+### Dark complexion dblue body 64x64  
 ![dblue/dark/64/gopher_64x64_01_look_straight.png](dblue/dark/64/gopher_64x64_01_look_straight.png)
 ![dblue/dark/64/gopher_64x64_02_look_left.png](dblue/dark/64/gopher_64x64_02_look_left.png)
 ![dblue/dark/64/gopher_64x64_03_look_left_up.png](dblue/dark/64/gopher_64x64_03_look_left_up.png)
@@ -432,7 +432,7 @@ Go gopher images generated with Go. Based on images found at: https://go.dev/blo
 ![dblue/dark/64/gopher_64x64_18_look_squint_straight_red.png](dblue/dark/64/gopher_64x64_18_look_squint_straight_red.png)
 ![dblue/dark/64/gopher_64x64_19_look_blink_left.png](dblue/dark/64/gopher_64x64_19_look_blink_left.png)
 ![dblue/dark/64/gopher_64x64_20_look_blink_right.png](dblue/dark/64/gopher_64x64_20_look_blink_right.png)
-### Dark green 64x64  
+### Dark complexion green body 64x64  
 ![green/dark/64/gopher_64x64_01_look_straight.png](green/dark/64/gopher_64x64_01_look_straight.png)
 ![green/dark/64/gopher_64x64_02_look_left.png](green/dark/64/gopher_64x64_02_look_left.png)
 ![green/dark/64/gopher_64x64_03_look_left_up.png](green/dark/64/gopher_64x64_03_look_left_up.png)
@@ -453,7 +453,7 @@ Go gopher images generated with Go. Based on images found at: https://go.dev/blo
 ![green/dark/64/gopher_64x64_18_look_squint_straight_red.png](green/dark/64/gopher_64x64_18_look_squint_straight_red.png)
 ![green/dark/64/gopher_64x64_19_look_blink_left.png](green/dark/64/gopher_64x64_19_look_blink_left.png)
 ![green/dark/64/gopher_64x64_20_look_blink_right.png](green/dark/64/gopher_64x64_20_look_blink_right.png)
-### Dark mblue 64x64  
+### Dark complexion mblue body 64x64  
 ![mblue/dark/64/gopher_64x64_01_look_straight.png](mblue/dark/64/gopher_64x64_01_look_straight.png)
 ![mblue/dark/64/gopher_64x64_02_look_left.png](mblue/dark/64/gopher_64x64_02_look_left.png)
 ![mblue/dark/64/gopher_64x64_03_look_left_up.png](mblue/dark/64/gopher_64x64_03_look_left_up.png)
@@ -474,7 +474,7 @@ Go gopher images generated with Go. Based on images found at: https://go.dev/blo
 ![mblue/dark/64/gopher_64x64_18_look_squint_straight_red.png](mblue/dark/64/gopher_64x64_18_look_squint_straight_red.png)
 ![mblue/dark/64/gopher_64x64_19_look_blink_left.png](mblue/dark/64/gopher_64x64_19_look_blink_left.png)
 ![mblue/dark/64/gopher_64x64_20_look_blink_right.png](mblue/dark/64/gopher_64x64_20_look_blink_right.png)
-### Dark orange 64x64  
+### Dark complexion orange body 64x64  
 ![orange/dark/64/gopher_64x64_01_look_straight.png](orange/dark/64/gopher_64x64_01_look_straight.png)
 ![orange/dark/64/gopher_64x64_02_look_left.png](orange/dark/64/gopher_64x64_02_look_left.png)
 ![orange/dark/64/gopher_64x64_03_look_left_up.png](orange/dark/64/gopher_64x64_03_look_left_up.png)
@@ -495,7 +495,7 @@ Go gopher images generated with Go. Based on images found at: https://go.dev/blo
 ![orange/dark/64/gopher_64x64_18_look_squint_straight_red.png](orange/dark/64/gopher_64x64_18_look_squint_straight_red.png)
 ![orange/dark/64/gopher_64x64_19_look_blink_left.png](orange/dark/64/gopher_64x64_19_look_blink_left.png)
 ![orange/dark/64/gopher_64x64_20_look_blink_right.png](orange/dark/64/gopher_64x64_20_look_blink_right.png)
-### Dark pink 64x64  
+### Dark complexion pink body 64x64  
 ![pink/dark/64/gopher_64x64_01_look_straight.png](pink/dark/64/gopher_64x64_01_look_straight.png)
 ![pink/dark/64/gopher_64x64_02_look_left.png](pink/dark/64/gopher_64x64_02_look_left.png)
 ![pink/dark/64/gopher_64x64_03_look_left_up.png](pink/dark/64/gopher_64x64_03_look_left_up.png)
@@ -516,7 +516,7 @@ Go gopher images generated with Go. Based on images found at: https://go.dev/blo
 ![pink/dark/64/gopher_64x64_18_look_squint_straight_red.png](pink/dark/64/gopher_64x64_18_look_squint_straight_red.png)
 ![pink/dark/64/gopher_64x64_19_look_blink_left.png](pink/dark/64/gopher_64x64_19_look_blink_left.png)
 ![pink/dark/64/gopher_64x64_20_look_blink_right.png](pink/dark/64/gopher_64x64_20_look_blink_right.png)
-### Dark purple 64x64  
+### Dark complexion purple body 64x64  
 ![purple/dark/64/gopher_64x64_01_look_straight.png](purple/dark/64/gopher_64x64_01_look_straight.png)
 ![purple/dark/64/gopher_64x64_02_look_left.png](purple/dark/64/gopher_64x64_02_look_left.png)
 ![purple/dark/64/gopher_64x64_03_look_left_up.png](purple/dark/64/gopher_64x64_03_look_left_up.png)
@@ -537,7 +537,7 @@ Go gopher images generated with Go. Based on images found at: https://go.dev/blo
 ![purple/dark/64/gopher_64x64_18_look_squint_straight_red.png](purple/dark/64/gopher_64x64_18_look_squint_straight_red.png)
 ![purple/dark/64/gopher_64x64_19_look_blink_left.png](purple/dark/64/gopher_64x64_19_look_blink_left.png)
 ![purple/dark/64/gopher_64x64_20_look_blink_right.png](purple/dark/64/gopher_64x64_20_look_blink_right.png)
-### Dark red 64x64  
+### Dark complexion red body 64x64  
 ![red/dark/64/gopher_64x64_01_look_straight.png](red/dark/64/gopher_64x64_01_look_straight.png)
 ![red/dark/64/gopher_64x64_02_look_left.png](red/dark/64/gopher_64x64_02_look_left.png)
 ![red/dark/64/gopher_64x64_03_look_left_up.png](red/dark/64/gopher_64x64_03_look_left_up.png)
@@ -558,7 +558,7 @@ Go gopher images generated with Go. Based on images found at: https://go.dev/blo
 ![red/dark/64/gopher_64x64_18_look_squint_straight_red.png](red/dark/64/gopher_64x64_18_look_squint_straight_red.png)
 ![red/dark/64/gopher_64x64_19_look_blink_left.png](red/dark/64/gopher_64x64_19_look_blink_left.png)
 ![red/dark/64/gopher_64x64_20_look_blink_right.png](red/dark/64/gopher_64x64_20_look_blink_right.png)
-### Dark yellow 64x64  
+### Dark complexion yellow body 64x64  
 ![yellow/dark/64/gopher_64x64_01_look_straight.png](yellow/dark/64/gopher_64x64_01_look_straight.png)
 ![yellow/dark/64/gopher_64x64_02_look_left.png](yellow/dark/64/gopher_64x64_02_look_left.png)
 ![yellow/dark/64/gopher_64x64_03_look_left_up.png](yellow/dark/64/gopher_64x64_03_look_left_up.png)
